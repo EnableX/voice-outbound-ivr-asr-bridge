@@ -9,7 +9,7 @@ This example contains instructions how users can initiate outbound Calls play IV
 
 ## Installation
 - `git clone https://github.com/EnableX/voice-outbound-ivr-asr-bridge.git`
-- `cd voice-inbound-call-recording`
+- `cd voice-outbound-ivr-asr-bridge`
 - `npm install`
 
 - ## Setting up configurations using environment variables
